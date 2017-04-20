@@ -54,6 +54,6 @@
         android:textSize="18sp"
         android:layout_alignBaseline="@+id/textCount"
         android:layout_alignBottom="@+id/textCount"
-        android:layout_alignEnd="@+id/confirmButton" />
+        android:layout_centerHorizontal="true" />
 
 </RelativeLayout>
